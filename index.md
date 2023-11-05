@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository for UHnify, where we're revolutionizing the way students at the University of Hawaii at Manoa connect with student clubs and each other.
 
+![UHnify Logo](LOGO.png)
+
 ## Table of Contents
 1. [Project Goals](#project-goals)
 2. [Future Vision](#future-vision)
