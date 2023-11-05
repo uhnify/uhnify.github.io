@@ -55,7 +55,7 @@ Our app includes 5 main pages for streamlined navigation:
 UHnify is currently deployed on Digital Ocean. Experience the live application [here](#link-to-your-digital-ocean-deployment).
 
 ### Landing Page Screenshot
-![Landing Page Screenshot](#link-to-screenshot)
+![Landing Page Screenshot](HOMEPAGE.png)
 
 Our landing page provides users with a clear understanding of UHnify's purpose and a straightforward login interface. 
 
@@ -63,7 +63,7 @@ Our landing page provides users with a clear understanding of UHnify's purpose a
 
 Here are the mockups for four key pages of our application:
 1. **My Clubs Page**: [Mockup Screenshot](#link)
-2. **Clubs Page**: [Mockup Screenshot](#link)
+2. **Clubs Page**: [Mockup Screenshot](BROWSECLUBS.png)
 3. **Similar Clubs Page**: [Mockup Screenshot](#link)
 4. **Login Page**: [Mockup Screenshot](#link)
 
