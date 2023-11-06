@@ -49,7 +49,7 @@ Our app includes 5 main pages for streamlined navigation:
 - **Landing Page**: Your gateway to the UHnify experience.
 - **My Clubs Page**: Your personal club hub.
 - **Clubs Page**: Browse and explore the full directory of clubs.
-- **Similar Clubs Page**: Discover new clubs similar to those you've joined.
+- **Events Page**: Discover new clubs similar to those you've joined.
 - **Login Page**: Secure access to your UHnify account.
 
 ## Deployment
@@ -64,7 +64,7 @@ Our landing page provides users with a clear understanding of UHnify's purpose a
 ### Mockups
 
 Here are the mockups for four key pages of our application:
-1. **My Clubs Page**: [Mockup Screenshot](#link)
+1. **My Clubs Page**: [Mockup Screenshot](MyClubs.png)
 2. **Clubs Page**: [Mockup Screenshot](BROWSECLUBS.png)
 3. **Events Page**: [Mockup Screenshot](ClubPages.png)
 4. **Login Page**: [Mockup Screenshot](LoginWhiteBackground.png)
@@ -90,4 +90,4 @@ We welcome contributions of all kinds from the community. If you're interested i
 
 ## License
 
-UHnify is provided under the [MIT License](#).
+UHnify is provided under the [MIT License](https://opensource.org/license/mit/).
