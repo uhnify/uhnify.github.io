@@ -64,7 +64,7 @@ Our landing page provides users with a clear understanding of UHnify's purpose a
 ### Mockups
 
 Here are the mockups for four key pages of our application:
-1. **My Clubs Page**: [Mockup Screenshot](MyClubs.png)
+1. **My Clubs Page**: [Mockup Screenshot](ProfilePage.png)
 2. **Clubs Page**: [Mockup Screenshot](BROWSECLUBS.png)
 3. **Events Page**: [Mockup Screenshot](ClubPages.png)
 4. **Login Page**: [Mockup Screenshot](LoginPage.png)
