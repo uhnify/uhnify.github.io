@@ -66,8 +66,8 @@ Our landing page provides users with a clear understanding of UHnify's purpose a
 Here are the mockups for four key pages of our application:
 1. **My Clubs Page**: [Mockup Screenshot](#link)
 2. **Clubs Page**: [Mockup Screenshot](BROWSECLUBS.png)
-3. **Similar Clubs Page**: [Mockup Screenshot](#link)
-4. **Login Page**: [Mockup Screenshot](#link)
+3. **Events Page**: [Mockup Screenshot](ClubPages.png)
+4. **Login Page**: [Mockup Screenshot](LoginWhiteBackground.png)
 
 ## Software Engineering Practices
 
@@ -76,11 +76,11 @@ We are employing Issue Driven Project Management (IDPM) practices with all branc
 ## Project Home Page
 
 Our project home page includes essential information and resources:
-- **GitHub Organization**: [Visit our Organization](#link-to-github-organization)
+- **GitHub Organization**: [Visit our Organization]([#link-to-github-organization](https://github.com/uhnify))
 - **Team Contract**: [View our Team Contract](#link-to-team-contract)
 - **Deployment**: Check out our [deployed application](#link-to-digital-ocean).
 - **Screenshots**: Stay updated with our [latest screenshots](#link-to-screenshots).
-- **Milestone Progress**: Review what we achieved in [Milestone 1](#link-to-M1-project-page) and what we're targeting in [Milestone 2](#link-to-M2-project-page).
+- **Milestone Progress**: Review what we achieved in [Milestone 1]([#link-to-M1-project-page](https://github.com/orgs/uhnify/projects/1)) and what we're targeting in [Milestone 2]([#link-to-M2-project-page](https://github.com/orgs/uhnify/projects/2)).
 
 We are committed to adhering to [GitHub's hosting guidelines](#link-to-github-hosting-guidelines) throughout our project.
 
