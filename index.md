@@ -67,7 +67,7 @@ Here are the mockups for four key pages of our application:
 1. **My Clubs Page**: [Mockup Screenshot](MyClubs.png)
 2. **Clubs Page**: [Mockup Screenshot](BROWSECLUBS.png)
 3. **Events Page**: [Mockup Screenshot](ClubPages.png)
-4. **Login Page**: [Mockup Screenshot](LoginWhiteBackground.png)
+4. **Login Page**: [Mockup Screenshot](LoginPage.png)
 
 ## Software Engineering Practices
 
