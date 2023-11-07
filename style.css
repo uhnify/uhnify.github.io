@@ -3,9 +3,9 @@
 
 .header {
   background-image: url('Header.png') !important; 
-  background-size: cover !important; 
-  background-position: center !important; 
-  height: 300px !important; 
+  background-size: cover; 
+  background-position: center; 
+  height: 300px; 
 }
 
 :root {
