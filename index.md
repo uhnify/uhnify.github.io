@@ -77,7 +77,7 @@ We are employing Issue Driven Project Management (IDPM) practices with all branc
 
 Our project home page includes essential information and resources:
 - **GitHub Organization**: [Visit our Organization]([#link-to-github-organization](https://github.com/uhnify))
-- **Team Contract**: [View our Team Contract](#link-to-team-contract)
+- **Team Contract**: [View our Team Contract]([#link-to-team-contract](https://docs.google.com/document/d/1iAB-30a9g_zas9onSsnINSwsTR5heS-dqDpB4lmxgWU/edit))
 - **Deployment**: Check out our [deployed application](#link-to-digital-ocean).
 - **Screenshots**: Stay updated with our [latest screenshots](#link-to-screenshots).
 - **Milestone Progress**: Review what we achieved in [Milestone 1]([#link-to-M1-project-page](https://github.com/orgs/uhnify/projects/1)) and what we're targeting in [Milestone 2]([#link-to-M2-project-page](https://github.com/orgs/uhnify/projects/2)).
