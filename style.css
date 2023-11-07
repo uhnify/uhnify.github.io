@@ -1,9 +1,6 @@
 // Import the default theme styles
 @import "{{ site.theme }}";
 
-// Import the default theme styles
-@import "{{ site.theme }}";
-
 .header {
   background-image: url('Header.png') !important; 
   background-size: cover !important; 
