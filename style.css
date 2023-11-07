@@ -1,30 +1,44 @@
-// Import the default theme styles
-@import "{{ site.theme }}";
-
-.header {
-  background-image: url('Header.png') !important; 
-  background-size: cover; 
-  background-position: center; 
-  height: 300px; 
-}
-
+/* Define your color variables */
 :root {
-  --color-primary: #4F7942 !important;
-  --color-secondary: #DAE8D4 !important;
-  --color-background: #FFFFF0 !important;
-  --color-accent: #feefd0 !important;
+  --color-primary: #4F7942;
+  --color-secondary: #DAE8D4;
+  --color-background: #FFFFF0;
+  --color-accent: #feefd0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', sans-serif !important;
-  font-weight: bold !important;
-}
-
+/* Basic element styling */
 body {
-  font-family: 'Open Sans', sans-serif !important;
-  font-weight: regular !important;
+  font-family: 'Open Sans', sans-serif;
+  background-color: var(--color-background);
+  color: #333; /* Choose a default text color */
+  margin: 0;
+  padding: 0;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
 }
 
 em, .emphasis {
-  font-family: 'Playfair Display', serif !important;
+  font-family: 'Playfair Display', serif;
+}
+
+/* Layout styles */
+.header {
+  background-image: url('Header.png');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+/* You would continue to add styles for navigation, main content, footer, etc. */
+
+/* Responsive design elements */
+@media (max-width: 768px) {
+  .header {
+    height: 200px;
+  }
+  /* More responsive adjustments */
 }
