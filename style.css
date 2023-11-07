@@ -1,6 +1,14 @@
 // Import the default theme styles
 @import "{{ site.theme }}";
 
+.header {
+  background-image: url('Header.png'); 
+  background-size: cover; 
+  background-position: center; 
+  height: 300px; 
+}
+
+
 // Define your color variables
 $banana-leaf-green: #4F7942;
 $light-tropical-green: #DAE8D4;
