@@ -1,39 +1,33 @@
 // Import the default theme styles
 @import "{{ site.theme }}";
 
+// Import the default theme styles
+@import "{{ site.theme }}";
+
 .header {
-  background-image: url('Header.png'); 
-  background-size: cover; 
-  background-position: center; 
-  height: 300px; 
+  background-image: url('Header.png') !important; 
+  background-size: cover !important; 
+  background-position: center !important; 
+  height: 300px !important; 
 }
 
-
-// Define your color variables
-$banana-leaf-green: #4F7942;
-$light-tropical-green: #DAE8D4;
-$coconut-white: #FFFFF0;
-$pale-yellow: #feefd0;
-
-// Apply the color variables
 :root {
-  --color-primary: #{ $banana-leaf-green };
-  --color-secondary: #{ $light-tropical-green };
-  --color-background: #{ $coconut-white };
-  --color-accent: #{ $pale-yellow };
+  --color-primary: #4F7942 !important;
+  --color-secondary: #DAE8D4 !important;
+  --color-background: #FFFFF0 !important;
+  --color-accent: #feefd0 !important;
 }
 
-// Typography
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', sans-serif;
-  font-weight: bold;
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: bold !important;
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: regular;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: regular !important;
 }
 
 em, .emphasis {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display', serif !important;
 }
