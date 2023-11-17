@@ -82,8 +82,17 @@ Discover more about UHnify and our progress:
 - **GitHub Organization**: [Visit our Organization](https://github.com/uhnify)
 - **Team Contract**: [View our Team Contract](https://docs.google.com/document/d/1iAB-30a9g_zas9onSsnINSwsTR5heS-dqDpB4lmxgWU/edit)
 - **Deployment**: Experience our [deployed application](https://uhnify.online).
-- **Screenshots**: Check out our [latest screenshots](#link-to-screenshots).
 - **Milestone Progress**: See our achievements in [Milestone 1](https://github.com/orgs/uhnify/projects/1) and our goals for [Milestone 2](https://github.com/orgs/uhnify/projects/2).
+
+## Screenshots
+
+Check out our latest screenshots:
+
+- **My Clubs Page**: ![My Clubs Page Screenshot](MYCLUB.png)
+- **Sign In Page**: ![Sign In Page Screenshot](SIGNIN.png)
+- **Browse Events Page**: ![Browse Events Page Screenshot](BROWSEEVENT.png)
+- **Clubs Page**: ![Clubs Page Screenshot](BROWSECLUB.png)
+- **Landing Page**: ![Landing Page Screenshot](LANDINGPAGE.png)
 
 We commit to following [GitHub's hosting guidelines](#link-to-github-hosting-guidelines) throughout our project.
 
