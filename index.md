@@ -5,7 +5,7 @@ Welcome to the GitHub repository for UHnify, where we're revolutionizing the way
 ![UHnify Logo](LOGO.png)
 
 ## Table of Contents
-1. [Project Goals](#project-goals)
+1. [Overview](#overview)
 2. [System Architecture](#system-architecture)
 3. [Features](#features)
 4. [Pages](#pages)
@@ -16,11 +16,12 @@ Welcome to the GitHub repository for UHnify, where we're revolutionizing the way
 9. [Contributing](#contributing)
 10. [License](#license)
 
-## Project Goals
+## Overview
 
-At UHnify, we strive to:
-- Enhance the interaction between students and clubs at UH Manoa through a unified and interactive platform.
+UHnify aims to bring the UH Manoa student body together by:
+- Enhancing the interaction between students and clubs at UH Manoa through a unified and interactive platform.
 - Provide a comprehensive suite of tools for managing club activities and fostering community involvement.
+- Allow students to both create their own clubs and join existing ones.
 - Create an intuitive and personalized user experience that adapts to the evolving needs of the student body.
 
 ## System Architecture
@@ -32,73 +33,24 @@ UHnify's robust system architecture is composed of:
 ## Features
 
 UHnify introduces features that make the university experience more connected and vibrant:
-- **User Authentication**: Register and sign in with UH credentials, with an efficient password recovery system.
-- **Profile Customization**: Edit personal details and select areas of interest to tailor the UHnify experience.
-- **Club Discovery and Management**: An extensive directory of clubs, event swiper feature for personalized discovery, and administrative tools for club admins.
-- **Virtual Collaboration**: Integrations with virtual meeting platforms to enhance club engagement.
-- **Advanced User Experience**: Notifications, club ratings, and expiration of outdated club listings to keep the platform up-to-date.
+- **Club Discovery and Management**: Users can browse existing clubs to find that suits their interests. They can also create their own clubs.
+- **Event Info**: Users can view info about upcoming events associatd with clubs they are a member of.
+- **My Clubs**: Users can browse the clubs they have membership with and leave clubs they are no longer interested in.
 
-## Pages
+## User Guide 
 
 Each page on UHnify is designed to cater to specific user needs:
-- **Landing Page**: Introduces users to UHnify with a compelling headline and call-to-action.
-- **My Clubs Page**: A dashboard for users to manage their clubs and view recommendations.
-- **Clubs Page**: Explore clubs using intelligent search and advanced filters.
-- **Events Page**: Personalized event suggestions to encourage active participation.
-- **Login Page**: A secure entry point to user accounts.
-- **Club Home Page**: A dedicated space for each club to showcase their identity and activities.
-
-## Use Cases
-
-Our application enhances the user experience through:
-- **New User Onboarding**: An intuitive pathway from the homepage to club discovery.
-- **Club Admin Management**: Tools for club admins to update information and connect with members.
-- **Regular User Engagement**: A journey of exploration through club activities and events.
+- **My Clubs Page**: ![My Clubs Page Screenshot](MYCLUB.png) Here users can view clubs they are a member of.
+- **Sign In Page**: ![Sign In Page Screenshot](SIGNIN.png) Here users sign in to their account. 
+- **Browse Events Page**: ![Browse Events Page Screenshot](BROWSEEVENT.png) Here users can view upcoming events. 
 
 ## Deployment
 
-UHnify is deployed on Digital Ocean, providing a stable and scalable environment for our users. Access the application [here](#link-to-your-digital-ocean-deployment).
+UHnify is deployed on Digital Ocean, providing a stable and scalable environment for our users. Access the application [here](#uhnify.online).
 
-### Landing Page Screenshot
-![Landing Page Screenshot](HOMEPAGE.png)
+## Project Milestones
 
-Our landing page warmly welcomes users and provides clear navigation to all parts of the app.
-
-### Mockups
-
-Browse our mockups to get a glimpse of the UHnify user interface:
-1. **My Clubs Page**: [Mockup Screenshot](ProfilePage.png)
-2. **Clubs Page**: [Mockup Screenshot](BROWSECLUBS.png)
-3. **Events Page**: [Mockup Screenshot](ClubPages.png)
-4. **Login Page**: [Mockup Screenshot](LoginPage.png)
-
-## Software Engineering Practices
-
-We're utilizing best practices like Issue Driven Project Management (IDPM), ensuring all branches are named to enhance collaborative development and track progress on our [M1 Project](#link-to-M1-project) on GitHub.
-
-## Project Home Page
-
-Discover more about UHnify and our progress:
-- **GitHub Organization**: [Visit our Organization](https://github.com/uhnify)
-- **Team Contract**: [View our Team Contract](https://docs.google.com/document/d/1iAB-30a9g_zas9onSsnINSwsTR5heS-dqDpB4lmxgWU/edit)
-- **Deployment**: Experience our [deployed application](https://uhnify.online).
-- **Milestone Progress**: See our achievements in [Milestone 1](https://github.com/orgs/uhnify/projects/1) and our goals for [Milestone 2](https://github.com/orgs/uhnify/projects/2).
-
-## Screenshots
-
-Check out our latest screenshots:
-
-- **My Clubs Page**: ![My Clubs Page Screenshot](MYCLUB.png)
-- **Sign In Page**: ![Sign In Page Screenshot](SIGNIN.png)
-- **Browse Events Page**: ![Browse Events Page Screenshot](BROWSEEVENT.png)
-- **Clubs Page**: ![Clubs Page Screenshot](BROWSECLUB.png)
-- **Landing Page**: ![Landing Page Screenshot](LANDINGPAGE.png)
-
-We commit to following [GitHub's hosting guidelines](#link-to-github-hosting-guidelines) throughout our project.
-
-## Contributing
-
-Contributions are welcome! If you'd like to help improve UHnify, please review our [contributing guidelines](#).
+We're utilizing best practices like Issue Driven Project Management (IDPM), ensuring all branches are named to enhance collaborative development and track progress on our  [Milestone 2](https://github.com/orgs/uhnify/projects/2) on GitHub.
 
 ## License
 
