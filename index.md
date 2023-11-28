@@ -46,7 +46,7 @@ Each page on UHnify is designed to cater to specific user needs:
 
 ## Deployment
 
-UHnify is deployed on Digital Ocean, providing a stable and scalable environment for our users. Access the application [here](#uhnify.online).
+UHnify is deployed on Digital Ocean, providing a stable and scalable environment for our users. Access the application [here](https://uhnify.online).
 
 ## Project Milestones
 
