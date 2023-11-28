@@ -9,7 +9,8 @@ Welcome to the GitHub repository for UHnify, where we're revolutionizing the way
 2. [System Architecture](#system-architecture)
 3. [Features](#features)
 4. [User Guide](#user-guide)
-5. [Deployment](#deployment)
+5. [Dev Guide](#dev-guide)
+6. [Deployment](#deployment)
 7. [Project Milestones](#project-milestones)
 
 
@@ -45,7 +46,7 @@ Each page on UHnify is designed to cater to specific user needs:
 
 ## Dev Guide 
 
-Each page on UHnify is designed to cater to specific user needs:
+For those who want to iterate on the UHnify base:
 - **Cloning the repo**: ![Clone Repo](CloneRepo.png) Head to the uhnify repository and make a copy of the repo. We recommend using Github Desktop for this. 
 - **Installations**: ![Commands](Installcommands.png) Using the terminal, run these commands in the app directory of the repo. 
 - **Start Editing**: Once the installations finish, invoke `meteor npm run start` in the terminal to pull up a local version of the app to make sure everything runs fine. Then, happy editing! 
