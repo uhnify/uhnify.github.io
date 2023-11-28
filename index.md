@@ -37,9 +37,11 @@ UHnify introduces features that make the university experience more connected an
 ## User Guide 
 
 Each page on UHnify is designed to cater to specific user needs:
-- **My Clubs Page**: ![My Clubs Page Screenshot](MYCLUB.png) Here users can view clubs they are a member of.
-- **Sign In Page**: ![Sign In Page Screenshot](SIGNIN.png) Here users sign in to their account. 
-- **Browse Events Page**: ![Browse Events Page Screenshot](BROWSEEVENT.png) Here users can view upcoming events. 
+- **My Clubs Page**: ![My Clubs Page Screenshot](MyClubs.png) Here users can view clubs they are a member of.
+- **Sign In Page**: ![Sign In Page Screenshot](SignIn.png) Here users sign in to their account. 
+- **Browse Events Page**: ![Browse Events Page Screenshot](BrowseEvents.png) Here users can view upcoming events.
+- **Browse Clubs**: ![Browse Clubs Page Screenshot](BrowseClubs.png) Here users can view existing clubs.
+- **Add Clubs**: ![Add Clubs Screenshot](AddClubs.png) Here users can create their own clubs. 
 
 ## Deployment
 
