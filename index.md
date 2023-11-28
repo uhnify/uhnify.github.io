@@ -8,13 +8,10 @@ Welcome to the GitHub repository for UHnify, where we're revolutionizing the way
 1. [Overview](#overview)
 2. [System Architecture](#system-architecture)
 3. [Features](#features)
-4. [Pages](#pages)
-5. [Use Cases](#use-cases)
-6. [Deployment](#deployment)
-7. [Software Engineering Practices](#software-engineering-practices)
-8. [Project Home Page](#project-home-page)
-9. [Contributing](#contributing)
-10. [License](#license)
+4. [User Guide](#user-guide)
+5. [Deployment](#deployment)
+7. [Project Milestones](#project-milestones)
+
 
 ## Overview
 
@@ -51,7 +48,3 @@ UHnify is deployed on Digital Ocean, providing a stable and scalable environment
 ## Project Milestones
 
 We're utilizing best practices like Issue Driven Project Management (IDPM), ensuring all branches are named to enhance collaborative development and track progress on our  [Milestone 2](https://github.com/orgs/uhnify/projects/2) on GitHub.
-
-## License
-
-UHnify is made available under the [MIT License](https://opensource.org/licenses/MIT).
