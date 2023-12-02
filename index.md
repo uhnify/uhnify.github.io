@@ -3,7 +3,7 @@
 Welcome to the GitHub repository for UHnify, where we're revolutionizing the way students at the University of Hawaii at Manoa connect with student clubs and each other using a comprehensive platform powered by the Meteor framework and MongoDB.
 
 ![UHnify Logo](LOGO.png)
-![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
+![ci-badge](https://github.com/uhnify/uhnify/workflows/uhnify/badge.svg)
 ## Table of Contents
 1. [Overview](#overview)
 2. [System Architecture](#system-architecture)
