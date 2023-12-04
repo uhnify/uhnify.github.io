@@ -43,7 +43,8 @@ Each page on UHnify is designed to cater to specific user needs:
 - **Browse Events Page**: ![Browse Events Page Screenshot](BrowseEvents.png) Here users can view upcoming events.
 - **Browse Clubs**: ![Browse Clubs Page Screenshot](BrowseClubs.png) Here users can view existing clubs.
 - **Add Clubs**: ![Add Clubs Screenshot](AddClubs.png) Here users can create their own clubs.
-- - **Profile Page**: ![Add Clubs Screenshot](profileimage.png) Here users can edit their own profile. 
+- **Profile Page**: ![Add Clubs Screenshot](profileimage.png) Here users can edit their own profile.
+-  **Calendar Events**: ![Calendar Events Screenshot](calendar.png) Here users can view a calendar of upcoming events.
 
 ## Dev Guide 
 
