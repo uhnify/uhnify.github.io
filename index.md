@@ -8,10 +8,11 @@ Welcome to the GitHub repository for UHnify, where we're revolutionizing the way
 1. [Overview](#overview)
 2. [System Architecture](#system-architecture)
 3. [Features](#features)
-4. [User Guide](#user-guide)
-5. [Dev Guide](#dev-guide)
-6. [Deployment](#deployment)
-7. [Project Milestones](#project-milestones)
+4. [Community Feedback](#community-feedback)
+5. [User Guide](#user-guide)
+6. [Dev Guide](#dev-guide)
+7. [Deployment](#deployment)
+8. [Project Milestones](#project-milestones)
 
 
 ## Overview
@@ -46,6 +47,14 @@ Each page on UHnify is designed to cater to specific user needs:
 - **Profile Page**: ![Add Clubs Screenshot](profileimage.png) Here users can edit their own profile.
 -  **Calendar Events**: ![Calendar Events Screenshot](calendar.png) Here users can view a calendar of upcoming events.
 
+## Community Feedback
+
+Here are some recommendations and feedback from our users:
+- **Adding clubs issues**: Adding clubs was not working. An error about needing a clubID was given whenever submit was pressed. 
+- **Landing page event card**: The card that linked to events on the landing page would not work if user was not signed in. It was suggested to make events visible to all users, even when not signed in. 
+- **Navbar Profile Image**: It was suggested to only have a profile image appear for logged in users. When not signed in, the dropdown menu should just say "Sign In."
+- **Alerts & User Interaction**: There should be a notification when users join clubs to ensure them the command worked. 
+
 ## Dev Guide 
 
 For those who want to iterate on the UHnify base:
@@ -59,4 +68,4 @@ UHnify is deployed on Digital Ocean, providing a stable and scalable environment
 
 ## Project Milestones
 
-We're utilizing best practices like Issue Driven Project Management (IDPM), ensuring all branches are named to enhance collaborative development and track progress on our [Milestone 1](https://github.com/orgs/uhnify/projects/1) and [Milestone 2](https://github.com/orgs/uhnify/projects/2) on GitHub. Check out our upcoming M3 Milestones [here](https://github.com/orgs/uhnify/projects/3).
+We're utilizing best practices like Issue Driven Project Management (IDPM), ensuring all branches are named to enhance collaborative development and track progress on our [Milestone 1](https://github.com/orgs/uhnify/projects/1) and [Milestone 2](https://github.com/orgs/uhnify/projects/2) on GitHub. View our final M3 Milestones [here](https://github.com/orgs/uhnify/projects/3).
