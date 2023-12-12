@@ -62,7 +62,7 @@ Here are some recommendations and feedback from our users:
 
 For those who want to iterate on the UHnify base:
 - **Cloning the repo**: ![Clone Repo](CloneRepo.png) Head to the uhnify repository and make a copy of the repo. We recommend using Github Desktop for this. 
-- **Installations**: ![Commands](Installcommands.png) Using the terminal, run these commands in the app directory of the repo. 
+- **Installations**: ![Commands](Installcommands.png) ![More Commands](CalendarInstalls.png) Using the terminal, run these commands in the app directory of the repo. 
 - **Start Editing**: Once the installations finish, invoke `meteor npm run start` in the terminal to pull up a local version of the app to make sure everything runs fine. Then, happy editing! 
  
 ## Deployment
@@ -71,4 +71,4 @@ UHnify is deployed on Digital Ocean, providing a stable and scalable environment
 
 ## Project Milestones
 
-We're utilizing Issue Driven Project Management(IDPM) to build UHnify. Feel free to view our [Milestone 1](https://github.com/orgs/uhnify/projects/1), [Milestone 2](https://github.com/orgs/uhnify/projects/2), and [Milestone 3](https://github.com/orgs/uhnify/projects/3) issues on GitHub!
+We're utilizing Issue Driven Project Management to build UHnify. Feel free to view our [Milestone 1](https://github.com/orgs/uhnify/projects/1), [Milestone 2](https://github.com/orgs/uhnify/projects/2), and [Milestone 3](https://github.com/orgs/uhnify/projects/3) issues on GitHub!
