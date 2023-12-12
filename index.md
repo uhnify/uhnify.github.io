@@ -33,7 +33,7 @@ UHnify's robust system architecture is composed of:
 
 UHnify introduces features that make the university experience more connected and vibrant:
 - **Club Discovery and Management**: Users can browse existing clubs to find that suits their interests. They can also create their own clubs.
-- **Event Info**: Users can view info about upcoming events associatd with clubs they are a member of.
+- **Event Info**: Users can view info about upcoming events associated with clubs they are a member of.
 - **My Clubs**: Users can browse the clubs they have membership with and leave clubs they are no longer interested in.
 
 ## User Guide 
