@@ -71,4 +71,4 @@ UHnify is deployed on Digital Ocean, providing a stable and scalable environment
 
 ## Project Milestones
 
-We're utilizing best practices like Issue Driven Project Management (IDPM), ensuring all branches are named to enhance collaborative development and track progress on our [Milestone 1](https://github.com/orgs/uhnify/projects/1) and [Milestone 2](https://github.com/orgs/uhnify/projects/2) on GitHub. View our final M3 Milestones [here](https://github.com/orgs/uhnify/projects/3).
+We're utilizing Issue Driven Project Management(IDPM) to build UHnify. Feel free to view our [Milestone 1](https://github.com/orgs/uhnify/projects/1), [Milestone 2](https://github.com/orgs/uhnify/projects/2), and [Milestone 3](https://github.com/orgs/uhnify/projects/3) issues on GitHub!
