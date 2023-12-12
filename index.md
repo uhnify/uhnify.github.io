@@ -39,15 +39,17 @@ UHnify introduces features that make the university experience more connected an
 ## User Guide 
 
 Each page on UHnify is designed to cater to specific user needs:
+- **Sign In Page**: ![Sign In Page Screenshot](SignIn.png) Here users sign in to their account.
+- - **Browse Clubs**: ![Browse Clubs Page Screenshot](FinalBrowseClubsPage.png) Here users can view existing clubs. They can filter through the clubs by category, as well as search for specific clubs. Users are able to join clubs that interest them.
 - **My Clubs Page**: ![My Clubs Page Screenshot](NewMyClubs.png) Here users can view clubs they are a member of.
-- **Sign In Page**: ![Sign In Page Screenshot](SignIn.png) Here users sign in to their account. 
-- **Browse Events Page**: ![Browse Events Page Screenshot](UpcomingEvents.png) Here users can view upcoming events.
-- **Browse Clubs**: ![Browse Clubs Page Screenshot](NewClubsPage.png) Here users can view existing clubs.
-- **Add Clubs**: ![Add Clubs Screenshot](StartClubForm.png) Here users can create their own clubs.
-- **Add Events**: ![Add Clubs Screenshot](StartEventsForm.png) Users can also create their own events.
+- **Add Clubs**: ![Add Clubs Screenshot](StartClubForm.png) Here users can fill out a simple form to create their own club.
+- **Browse Events Page**: ![Browse Events Page Screenshot](FinalEventsPage.png) Here users can view upcoming events.
+- **My Events Page**: ![My Events Screenshot](FinalMyEventsPage.png) Here users can view the events they signed up for.
+- **Add Events**: ![Add Clubs Screenshot](StartEventsForm.png) Users can fill out a form to organize their own events.
 - **Edit Profile Page**: ![Add Clubs Screenshot](EditProfilePage.png) Here users can edit their own profile.
 - **Profile Page**: ![Add Clubs Screenshot](Profile.png) Here users can view their edited profile.
--  **Event Calendar**: ![Calendar Events Screenshot](EventCalendar.png) Here users can view a calendar of upcoming events.
+-  **Event Calendar**: ![Calendar Events Screenshot](EventCalendar.png) Located at the bottom of all the event pages, this calendar offers a good reference for users to plan out their week.
+-  **Admin Dashboard**: ![Admin Dashboard Screenshot](AdminDashboardPage.png) This feature is avaiable only for admins of the site! Admins are able to view, edit, and remove all the clubs on the site. 
 
 ## Community Feedback
 
